@@ -6,7 +6,7 @@ except ImportError:
 setup(name='intdict',
       author = 'Adam DePrince',
       author_email = 'adam@pelotoncycle.com',
-      url = 'https://github.com/pelotoncycle/peloton_bloomfilters',
+      url = 'https://github.com/pelotoncycle/intdict',
       version='0.0.1',
       description="Peloton Cycle's insanely fast integer dictionary",
       ext_modules=(
