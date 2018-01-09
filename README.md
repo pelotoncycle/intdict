@@ -29,7 +29,7 @@ better performance.
 >>> d = intdict(10000)
 ```
 
-## Cavets
+## Caveats
 
 `intdict` stores all signed 64 bit integers except for the value of
 `-1`.  This happens to also be exactly the range of the `hash` function
